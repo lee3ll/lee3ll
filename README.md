@@ -1,13 +1,15 @@
-### Hi there 👋
-
-<!--
-**lee3ll/lee3ll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=6994CDEE&height=100)
 <br><br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=26&duration=4000&pause=1000&color=6994CDDA&width=435&lines=Welcome+to+seolhee's+GitHub!%F0%9F%91%8B)](https://git.io/typing-svg)
 <br>
 <hr>
+
+
+### Hi there 👋
+
+<!--
+**lee3ll/lee3ll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
